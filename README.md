@@ -2,6 +2,8 @@ HotkeySwitcher
 ==============
 
 HotkeySwitcher is an application that manages multiple sets of hotkeys for the MMORPG Tibia.
+HotkeySwitcher is depricated as of Tibia version 10.55 (Sep 15, 2014), since that version added the ability
+to have different hotkey sets directly in the client.
 
 Requirements
 --------------
